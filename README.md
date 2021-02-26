@@ -1,3 +1,3 @@
 # TOWER Solidity Contracts
 
-Cloned from GAMEE Contracts
+visit https://crazydefenseheroes.com/
